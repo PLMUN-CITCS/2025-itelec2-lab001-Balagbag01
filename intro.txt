@@ -1,3 +1,3 @@
-Name: [Your Full Name]
-Course: [Your Course Name]
-Interests In Programming: [Your Interests]
+Name: [Egualan Andrei]
+Course: [Bsit]
+Interests in programming: [Programming]
